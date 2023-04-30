@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/neo/static/css/main.331bbd54.css",
+    "main.js": "/neo/static/js/main.3093c22a.js",
+    "static/media/LTC.png": "/neo/static/media/LTC.1d85fc402ae4586af1a9.png",
+    "static/media/XLM.png": "/neo/static/media/XLM.dfb9f8ddf0640209cffd.png",
+    "static/media/KNC.png": "/neo/static/media/KNC.4098cdce7221ce95f890.png",
+    "static/media/VEN.png": "/neo/static/media/VEN.624ec711b21eb1f0b023.png",
+    "static/media/XRP.png": "/neo/static/media/XRP.5b98052db062667d4dec.png",
+    "static/media/NAV.png": "/neo/static/media/NAV.fa4f030809355e0ed857.png",
+    "static/media/TRX.png": "/neo/static/media/TRX.ac0a4d2f29303649bd34.png",
+    "static/media/BCH.png": "/neo/static/media/BCH.a50166033d6407ca62d9.png",
+    "static/media/EOS.png": "/neo/static/media/EOS.7b9dd14103ede93c8694.png",
+    "static/media/ZEN.png": "/neo/static/media/ZEN.90c55f947ac28cd25341.png",
+    "static/media/BTC.png": "/neo/static/media/BTC.eaadde7db96e9805a725.png",
+    "static/media/XZC.png": "/neo/static/media/XZC.b82f3613578bb4217e4b.png",
+    "static/media/OMG.png": "/neo/static/media/OMG.232f2b7b17e5b54dc39d.png",
+    "index.html": "/neo/index.html",
+    "main.331bbd54.css.map": "/neo/static/css/main.331bbd54.css.map",
+    "main.3093c22a.js.map": "/neo/static/js/main.3093c22a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.331bbd54.css",
+    "static/js/main.3093c22a.js"
+  ]
+}
